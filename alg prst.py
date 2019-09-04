@@ -2,6 +2,6 @@
 l=input().split(" ")
 a=[int(x) for x in l]
 if k in a:
-    print("yes")
+    print("Yes")
 else: 
-    print("no")
+    print("No")
