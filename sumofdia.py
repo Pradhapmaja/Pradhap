@@ -1,0 +1,10 @@
+a = int(input())
+b,c = input().split()
+d,e = input().split()
+b = int(b)
+c = int(c)
+d = int(d)
+e = int(e)
+sum = (b*e)+(c*d)
+print(sum)
+© 2019 GitHub, Inc.
